@@ -84,7 +84,7 @@ annotate service.Risks with @(
         },
         {
             $Type : 'UI.DataField',
-            Label : '{i18n>Impact}',
+            Label : '{i18n>Impacttt}',
             Value : impact,
             Criticality : criticality,
         },
